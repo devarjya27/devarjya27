@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=500&size=31&duration=3000&pause=250&color=E94EFF&multiline=true&random=true&width=434&height=85&lines=Malware+Analysis;and+Digital+Forensics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Be+Vietnam+Pro&weight=500&size=31&duration=3000&pause=250&color=E94EFF&multiline=true&random=true&width=434&height=85&lines=Malware+Analysis;Digital+Forensics)](https://git.io/typing-svg)
 
 ## A little about me            
 
