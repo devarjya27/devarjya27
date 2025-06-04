@@ -16,6 +16,4 @@
  `~` I like to draw 🎨(whenever I can) — and I’m deep into into **manhwas** and **light novels**  
 
  `~` **18** years old | MBTI: **INTJ** 🧠 
-
- `~` Patiently working towards some certifications
  
