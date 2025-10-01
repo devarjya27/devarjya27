@@ -11,7 +11,7 @@
  `~` **Data Science & Engineering** Undergraduate at **Manipal Institute of Technology**
 
 
- `~` I like to draw — and I’m deep into into **manhwas** and **light novels**  
+ `~` I like to draw, and I’m deep into into **manhwas** and **light novels**  
 
  `~` **19** years old | MBTI: **INTJ**
  
