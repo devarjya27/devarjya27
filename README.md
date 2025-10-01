@@ -13,5 +13,5 @@
  `~` **19** years old | MBTI: **INTJ**
  
 <p align="center">
-  <img src="assets/image.png" width="283" height="250">
+  <img src="assets/image.png" width="1080" height="500">
 </p>
