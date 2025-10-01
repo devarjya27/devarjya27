@@ -2,9 +2,6 @@
 
 ## A little about me            
 
-<p1>
-  <img height="250" width="283" align="right" src="assets/malware_and_me.png" >  
-</p1>
 
  `~` Playing **CTFs** for [<span style="color:#E94EFF"><strong>Cryptonite💚</strong></span>](https://ctftime.org/team/62713)  *(specializing in Forensics & Reverse Engineering)*  
 
@@ -15,3 +12,6 @@
 
  `~` **19** years old | MBTI: **INTJ**
  
+<p align="center">
+  <img src="assets/image.png" width="283" height="250">
+</p>
