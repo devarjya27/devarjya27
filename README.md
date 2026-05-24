@@ -3,15 +3,13 @@
 ## A little about me            
 
 
- `~` Playing **CTFs** for [<span style="color:#E94EFF"><strong>Cryptonite💚</strong></span>](https://ctftime.org/team/62713)  *(specializing in Forensics & Reverse Engineering)*  
-
+ `~` Playing **CTFs** for [<span style="color:#E94EFF"><strong>Cryptonite</strong></span>](https://ctftime.org/team/62713)  
+ 
  `~` **Data Science & Engineering** Undergraduate at **Manipal Institute of Technology**
 
+ `~` **Research Intern** at **Indian Institute of Technology, Guwahati**
 
  `~` I like to draw, and I’m deep into into **manhwas** and **light novels**  
 
  `~` **19** years old | MBTI: **INTJ**
  
-<p align="center">
-  <img src="assets/image.png" width="1080" height="500">
-</p>
