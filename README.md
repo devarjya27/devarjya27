@@ -7,8 +7,6 @@
  
  `~` **Data Science & Engineering** Undergraduate at **Manipal Institute of Technology**
 
- `~` **Research Intern** at **Indian Institute of Technology, Guwahati**
-
  `~` I like to draw, and I’m deep into into **manhwas** and **light novels**  
 
  `~` **19** years old | MBTI: **INTJ**
