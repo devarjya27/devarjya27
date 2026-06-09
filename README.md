@@ -3,7 +3,7 @@
 ## A little about me            
 
 
- `~` Playing **CTFs** for [<span style="color:#E94EFF"><strong>Cryptonite</strong></span>](https://ctftime.org/team/62713)  
+ `~` Senior Member at [<span style="color:#E94EFF"><strong>Cryptonite</strong></span>](https://ctftime.org/team/62713)  
  
  `~` **Data Science & Engineering** Undergraduate at **Manipal Institute of Technology**
 
