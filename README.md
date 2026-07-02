@@ -9,5 +9,5 @@
 
  `~` I like to draw, and I’m deep into into **manhwas** and **light novels**  
 
- `~` **19** years old | MBTI: **INTJ**
+ `~` **20** years old | MBTI: **INTJ**
  
